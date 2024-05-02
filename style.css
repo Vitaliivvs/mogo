@@ -1,0 +1,46 @@
+:root{
+    --nav-text: rgb(149, 225, 211);
+    --nav-color: rgb(51, 51, 51);
+    --nav-paragraf: rgb(182, 182, 182);
+    --nav-white: rgb(255, 255, 255);
+}
+
+.logo{
+    color: var(--nav-text);
+}
+.navlink{
+    color: var(--nav-text);
+}
+.title{
+    color: var(--nav-color)
+}
+.title2{
+    color: var(--nav-color);
+}
+a {
+    text-decoration: none;
+}
+.photography{
+    color: var(--nav-color);
+}
+.lorem{
+    color: var(--nav-paragraf);
+}
+.image{
+    width: 380px;
+    height: 470px;
+}
+.name{
+    color: var(--nav-color);
+}
+.type{
+    color: var(--nav-paragraf);
+}
+.footerinput{
+    width: 230px;
+    height: 39px;
+}
+.button{
+    background-color: var(--nav-text);
+    color: var(--nav-white);
+}
